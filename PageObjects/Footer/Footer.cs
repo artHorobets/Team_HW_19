@@ -8,6 +8,8 @@ using OpenQA.Selenium.Interactions;
 using TestProject1.Page_Object;
 using XUnitTestProject1.PageObjects;
 
+//Bairatskaya Anastasia
+
 
 namespace TestProject1.Page_Object.Footer
 {

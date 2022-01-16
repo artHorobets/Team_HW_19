@@ -5,6 +5,8 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
 using TestProject1.Page_Object.Footer;
 
+//Artem Horobets
+
 namespace XUnitTestProject1.PageObjects
 {
     public class Header

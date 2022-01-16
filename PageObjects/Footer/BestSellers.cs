@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using XUnitTestProject1.PageObjects;
 using OpenQA.Selenium;
 
+//Bairatskaya Anastasia
+
 namespace TestProject1.Page_Object.Footer
 {
    public class BestSellers: Footer
